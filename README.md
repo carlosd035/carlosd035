@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! I'm Carlos, a 19 year old computer enthusiast, currently immersed in Computer Science at Universidade do Minho. My journey into this fascinating world began when I first set foot on the university campus.
+Hello! I'm Carlos, a 19 years old computer enthusiast, currently immersed in Computer Science at Universidade do Minho. My journey into this fascinating world began when I first set foot on the university campus.
 
 
 <div>
