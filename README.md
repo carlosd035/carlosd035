@@ -34,6 +34,8 @@ Hello! I'm Carlos, a 20 years old computer enthusiast, currently immersed in Com
    <a><img align="center" alt="java" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
    <a><img align="center" alt="java" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
    <a><img align="center" alt="java" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> </a>
+   <a><img align="center" alt="java" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> </a>
+
 </p>
 
 
