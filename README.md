@@ -19,8 +19,7 @@ Hello! I'm Carlos, a 20 years old computer enthusiast, currently immersed in Com
     <a><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-
-   
+    <a><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 </p>
 
 <h2>🔭 Frameworks</h2>
@@ -30,18 +29,27 @@ Hello! I'm Carlos, a 20 years old computer enthusiast, currently immersed in Com
     <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 </p>
 
+<h2>🛠 Skills</h2>
+<p>
+   <a><img align="center" alt="java" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+   <a><img align="center" alt="java" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
+   <a><img align="center" alt="java" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> </a>
+</p>
+
+
 
 <h2>🛠 Software and tools </h2>
 <p>
     <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"></a>
+
+   
 </p>
        
 <h2>🔍 Currently Studying</h2>
 <p>
-   <a><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-   <a><img align="center" alt="java" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
-   <a><img align="center" alt="java" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> </a>
+   <a><img align="center" alt="java" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> </a>
 </p>
 
    
