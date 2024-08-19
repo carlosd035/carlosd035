@@ -34,8 +34,6 @@ Hello! I'm Carlos, a 20 years old computer enthusiast, currently immersed in Com
    <a><img align="center" alt="java" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
    <a><img align="center" alt="java" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
    <a><img align="center" alt="java" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> </a>
-   <a><img align="center" alt="java" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> </a>
-
 </p>
 
 
@@ -45,8 +43,7 @@ Hello! I'm Carlos, a 20 years old computer enthusiast, currently immersed in Com
     <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"></a>
-
-   
+    <a><img align="center" alt="java" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> </a>   
 </p>
        
 <h2>🔍 Currently Studying</h2>
